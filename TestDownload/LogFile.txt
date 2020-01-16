@@ -1,0 +1,18 @@
+2020-01-15 16:32:41.958 +07:00 [INF] Starting up service
+2020-01-15 16:43:27.597 +07:00 [INF] Starting up service
+2020-01-15 16:46:36.829 +07:00 [INF] Starting up service
+2020-01-15 16:52:28.067 +07:00 [INF] Starting up service
+2020-01-15 16:54:11.062 +07:00 [INF] Starting up service
+2020-01-15 16:55:08.522 +07:00 [INF] Starting up service
+2020-01-15 16:56:49.072 +07:00 [INF] Starting up service
+2020-01-15 16:57:58.952 +07:00 [INF] Starting up service
+2020-01-15 17:04:11.314 +07:00 [INF] Starting up service
+2020-01-15 17:05:33.237 +07:00 [INF] Starting up service
+2020-01-15 17:07:07.822 +07:00 [INF] Starting up service
+2020-01-16 07:51:44.628 +07:00 [INF] Starting up service
+2020-01-16 07:51:46.570 +07:00 [INF] Fail! Ok
+2020-01-16 07:52:17.045 +07:00 [INF] Starting up service
+2020-01-16 07:53:56.657 +07:00 [INF] Starting up service
+2020-01-16 07:54:45.374 +07:00 [INF] Starting up service
+2020-01-16 08:04:16.797 +07:00 [INF] Starting up service
+2020-01-16 08:08:32.118 +07:00 [INF] Starting up service
